@@ -1,1 +1,3 @@
-console.log("Hello via Bun!");
+const message: string = "Hello, Stonx!";
+
+console.log(message);
